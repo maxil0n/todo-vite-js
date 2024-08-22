@@ -1,0 +1,1 @@
+Proyecto realizado con JavaScript, HTML y CSS,basado casi en su totalidad del curso "JavaScript Moderno: Guía para dominar el lenguaje" del profesor Fernando Herrera en la plataforma Udemy. La diferencia entre mi código y el suyo radica en la sintaxis y el nombrado de variables.
